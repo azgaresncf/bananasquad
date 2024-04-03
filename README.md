@@ -59,19 +59,19 @@ These commands will:
 and save the file. This will prevent your PC from making requests to the bananasquad.ru domain. You can also block requests to transfer.sh (```0.0.0.0 transfer.sh```) that transfers your credentials to their server.
 
 If you can, block those precise requests:
-- https://bananasquad.ru/paste
-- https://bananasquad.ru/handler
-- https://bananasquad.ru/hvnc.py
-- https://bananasquad.ru/hvnc.exe
-- https://bananasquad.ru/app.asar
-- https://bananasquad.ru/atomic/app.asar
-- https://funcaptcha.ru/paste
-- https://funcaptcha.ru/paste2
-- https://funcaptcha.ru/delivery
-- https://funcaptcha.ru/hvnc.py
-- https://funcaptcha.ru/hvnc.exe
-- https://bananasquad.ru/app.asar
-- https://bananasquad.ru/atomic/app.asar
+- http://bananasquad.ru/paste
+- http://bananasquad.ru/handler
+- http://bananasquad.ru/hvnc.py
+- http://bananasquad.ru/hvnc.exe
+- http://bananasquad.ru/app.asar
+- http://bananasquad.ru/atomic/app.asar
+- http://bananasquad.ru/newwallethandler
+- http://funcaptcha.ru/paste
+- http://funcaptcha.ru/paste2
+- http://funcaptcha.ru/delivery
+- http://funcaptcha.ru/hvnc.py
+- http://funcaptcha.ru/hvnc.exe
+- http://funcaptcha.ru/newwallethandler
 
 4. CHANGE ALL YOUR CREDENTIALS AND CLEAR ANYTHING POSSIBLE FROM YOUR BROWSER (CREDENTIALS THAT ARE SAVED IN YOUR BROWSER FOR EXAMPLE)
 5. And voilà!

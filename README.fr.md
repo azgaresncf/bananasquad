@@ -59,19 +59,19 @@ et enregistrez le fichier. Cela empêchera à votre PC de faire des requêtes au
 
 
 Si vous le pouvez, bloquez ces requêtes précises :
-- https://bananasquad.ru/paste
-- https://bananasquad.ru/handler
-- https://bananasquad.ru/hvnc.py
-- https://bananasquad.ru/hvnc.exe
-- https://bananasquad.ru/app.asar
-- https://bananasquad.ru/atomic/app.asar
-- https://funcaptcha.ru/paste
-- https://funcaptcha.ru/paste2
-- https://funcaptcha.ru/delivery
-- https://funcaptcha.ru/hvnc.py
-- https://funcaptcha.ru/hvnc.exe
-- https://bananasquad.ru/app.asar
-- https://bananasquad.ru/atomic/app.asar
+- http://bananasquad.ru/paste
+- http://bananasquad.ru/handler
+- http://bananasquad.ru/hvnc.py
+- http://bananasquad.ru/hvnc.exe
+- http://bananasquad.ru/app.asar
+- http://bananasquad.ru/atomic/app.asar
+- http://bananasquad.ru/newwallethandler
+- http://funcaptcha.ru/paste
+- http://funcaptcha.ru/paste2
+- http://funcaptcha.ru/delivery
+- http://funcaptcha.ru/hvnc.py
+- http://funcaptcha.ru/hvnc.exe
+- http://funcaptcha.ru/newwallethandler
 
 4. CHANGEZ TOUS VOS IDENTIFIANTS ET EFFACEZ TOUT CE QUI PEUT L'ÊTRE DE VOTRE NAVIGATEUR (LES IDENTIFIANTS ENREGISTRÉS DANS VOTRE NAVIGATEUR PAR EXEMPLE)
 5. Et voilà !
