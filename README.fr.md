@@ -2,8 +2,8 @@
 **Hachure SHA256 actuelle (de chaque logiciel) :**
 | Nom du fichier | SHA256 | 
 | -------- | -------- |
-| pl.py (=bananasquad)    | ```ac90499269bb228c49515d60af92e957de249e319844a8f585c85b351590c12b```     |
-| gruppe.py (=funcaptcha)    | ```5e61ff7884198174c85d1207c07ee868e6e12ec781dd38a6b7bbdd53e9f3feac```     |
+| pl.py (=bananasquad)    | [```d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339```](https://www.virustotal.com/gui/file/d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339)    |
+| gruppe.py (=funcaptcha)    | [```e99582098d27cfa84ca98097261e03d597590c6ec15d2f2cc30e2bff5cbed899```](https://www.virustotal.com/gui/file/e99582098d27cfa84ca98097261e03d597590c6ec15d2f2cc30e2bff5cbed899)     |
 ***
 ``(PS: An english version is available (README.md))``
 > [!NOTE]  
