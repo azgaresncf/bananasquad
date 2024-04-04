@@ -4,7 +4,7 @@
 
 Here are accounts that are suspected of spreading the malware on GitHub. I will try to update this list as many times as possible.
 ## Thanks
-I want to make a big shoutout to: [@vinyzu](https://github.com/Vinyzu) for helping me A LOT with searching accounts, [@tryformy](https://github.com/tryformy), [@EmileF67](https://github.com/EmileF67) and @reaeq for reporting me accounts that are spreading the malware! 
+I want to make a big shoutout to: [@vinyzu](https://github.com/Vinyzu) for helping me A LOT with searching accounts, [@0xHaskar](https://github.com/0xHaskar), [@tryformy](https://github.com/tryformy), [@EmileF67](https://github.com/EmileF67) and @reaeq for reporting me accounts that are spreading the malware! 
 ## List
 - https://github.com/sralzgurke/ *(deleted)*
 - https://github.com/dodokomboc5 *(deleted)*
@@ -436,3 +436,6 @@ I want to make a big shoutout to: [@vinyzu](https://github.com/Vinyzu) for helpi
 - https://github.com/allexpa6D7
 - https://github.com/7andreacampRbVell
 - https://github.com/3johngP78
+- https://github.com/katheeurinetaylory
+- https://github.com/jeohn61w9
+- https://github.com/IkFristenmillerO
