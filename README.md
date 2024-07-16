@@ -1,9 +1,11 @@
 # bananasquad/funcaptcha malware
+> note that the bananasquad malware is now fortunately outdated!!!
+
 **Current SHA256 hash (of each malware):**
 | File name | SHA256 | 
 | -------- | -------- |
-| pl.py (=bananasquad)    |  [```d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339```](https://www.virustotal.com/gui/file/d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339)     |
-| gruppe.py (=funcaptcha)    | [```e99582098d27cfa84ca98097261e03d597590c6ec15d2f2cc30e2bff5cbed899```](https://www.virustotal.com/gui/file/e99582098d27cfa84ca98097261e03d597590c6ec15d2f2cc30e2bff5cbed899)     |
+| pl.py (=bananasquad) (OUTDATED)   |  [```d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339```](https://www.virustotal.com/gui/file/d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339)     |
+| gruppe.py (=funcaptcha)    | [```41000461584d35c3a691d6f86457639189d22b852db3c7565d5410a413521b79```](https://www.virustotal.com/gui/file/41000461584d35c3a691d6f86457639189d22b852db3c7565d5410a413521b79)     |
 ***
 ``(PS: Une version en français est disponible (README.fr.md))``
 > [!NOTE]  
@@ -34,6 +36,7 @@ please reinstall them with the official websites:
 ```
 del %appdata%\gruppe_storage
 del %temp%\RuntimeBroker.exe
+del %temp%\RuntimeBroker2.exe
 del %temp%\hakabonk.exe
 del %appdata%\Microsoft\runpython.py
 del "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\hvnc.py"
@@ -55,6 +58,8 @@ These commands will:
 ```
 0.0.0.0 bananasquad.ru
 0.0.0.0 funcaptcha.ru
+0.0.0.0 1312stealer.ru
+0.0.0.0 kleinanzeigen.ru
 ``` 
 and save the file. This will prevent your PC from making requests to the bananasquad.ru domain. You can also block requests to transfer.sh (```0.0.0.0 transfer.sh```) that transfers your credentials to their server.
 
@@ -66,12 +71,29 @@ If you can, block those precise requests:
 - http://bananasquad.ru/app.asar
 - http://bananasquad.ru/atomic/app.asar
 - http://bananasquad.ru/newwallethandler
+- http://bananasquad.ru/delivery
 - http://funcaptcha.ru/paste
 - http://funcaptcha.ru/paste2
 - http://funcaptcha.ru/delivery
 - http://funcaptcha.ru/hvnc.py
 - http://funcaptcha.ru/hvnc.exe
 - http://funcaptcha.ru/newwallethandler
+- http://1312stealer.ru/paste
+- http://1312stealer.ru/paste2
+- http://1312stealer.ru/delivery
+- http://1312stealer.ru/hvnc.py
+- http://1312stealer.ru/hvnc.exe
+- http://1312stealer.ru/newwallethandler
+- http://kleinanzeigen.ru/paste
+- http://kleinanzeigen.ru/paste2
+- http://kleinanzeigen.ru/delivery
+- http://kleinanzeigen.ru/hvnc.py
+- http://kleinanzeigen.ru/hvnc.exe
+- http://kleinanzeigen.ru/newwallethandler
+- http://kleinanzeigen.ru/delivery
+- http://kleinanzeigen.ru/miner.exe
+
+
 
 4. CHANGE ALL YOUR CREDENTIALS AND CLEAR ANYTHING POSSIBLE FROM YOUR BROWSER (CREDENTIALS THAT ARE SAVED IN YOUR BROWSER FOR EXAMPLE)
 5. And voilà!
