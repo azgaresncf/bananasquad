@@ -1,9 +1,11 @@
 # (le) logiciel malveillant bananasquad/funcaptcha
+> notez que le logiciel malveillant de bananasquad est heureusement obsolète !!!
+
 **Hachure SHA256 actuelle (de chaque logiciel) :**
 | Nom du fichier | SHA256 | 
 | -------- | -------- |
-| pl.py (=bananasquad)    | [```d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339```](https://www.virustotal.com/gui/file/d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339)    |
-| gruppe.py (=funcaptcha)    | [```e99582098d27cfa84ca98097261e03d597590c6ec15d2f2cc30e2bff5cbed899```](https://www.virustotal.com/gui/file/e99582098d27cfa84ca98097261e03d597590c6ec15d2f2cc30e2bff5cbed899)     |
+| pl.py (=bananasquad) (OBSOLÈTE)  | [```d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339```](https://www.virustotal.com/gui/file/d278063c3acc2c145e154f039b94bb36a70d249671deac3ab9df189209b92339)    |
+| gruppe.py (=funcaptcha)    | [```41000461584d35c3a691d6f86457639189d22b852db3c7565d5410a413521b79```](https://www.virustotal.com/gui/file/41000461584d35c3a691d6f86457639189d22b852db3c7565d5410a413521b79)     |
 ***
 ``(PS: An english version is available (README.md))``
 > [!NOTE]  
@@ -33,6 +35,7 @@ veuillez les réinstaller à l'aide des sites web officiels :
 ```
 del %appdata%\gruppe_storage
 del %temp%\RuntimeBroker.exe
+del %temp%\RuntimeBroker2.exe
 del %temp%\hakabonk.exe
 del %appdata%\Microsoft\runpython.py
 del "%appdata%\Microsoft\Windows\Start Menu\Programs\Startup\hvnc.py"
@@ -54,6 +57,8 @@ Ces commandes vont :
 ```
 0.0.0.0 bananasquad.ru
 0.0.0.0 funcaptcha.ru
+0.0.0.0 1312stealer.ru
+0.0.0.0 kleinanzeigen.ru
 ```
 et enregistrez le fichier. Cela empêchera à votre PC de faire des requêtes au domaine bananasquad.ru. Vous pouvez également bloquer les requêtes vers transfer.sh (```0.0.0.0 transfer.sh```) qui transfère vos identifiants vers leur serveur.
 
@@ -66,12 +71,27 @@ Si vous le pouvez, bloquez ces requêtes précises :
 - http://bananasquad.ru/app.asar
 - http://bananasquad.ru/atomic/app.asar
 - http://bananasquad.ru/newwallethandler
+- http://bananasquad.ru/delivery
 - http://funcaptcha.ru/paste
 - http://funcaptcha.ru/paste2
 - http://funcaptcha.ru/delivery
 - http://funcaptcha.ru/hvnc.py
 - http://funcaptcha.ru/hvnc.exe
 - http://funcaptcha.ru/newwallethandler
+- http://1312stealer.ru/paste
+- http://1312stealer.ru/paste2
+- http://1312stealer.ru/delivery
+- http://1312stealer.ru/hvnc.py
+- http://1312stealer.ru/hvnc.exe
+- http://1312stealer.ru/newwallethandler
+- http://kleinanzeigen.ru/paste
+- http://kleinanzeigen.ru/paste2
+- http://kleinanzeigen.ru/delivery
+- http://kleinanzeigen.ru/hvnc.py
+- http://kleinanzeigen.ru/hvnc.exe
+- http://kleinanzeigen.ru/newwallethandler
+- http://kleinanzeigen.ru/delivery
+- http://kleinanzeigen.ru/miner.exe
 
 4. CHANGEZ TOUS VOS IDENTIFIANTS ET EFFACEZ TOUT CE QUI PEUT L'ÊTRE DE VOTRE NAVIGATEUR (LES IDENTIFIANTS ENREGISTRÉS DANS VOTRE NAVIGATEUR PAR EXEMPLE)
 5. Et voilà !
